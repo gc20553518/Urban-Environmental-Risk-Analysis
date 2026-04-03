@@ -1,6 +1,3 @@
-# Urban-Environmental-Risk-Analysis
-GIS and remote sensing analysis of environmental risk and vegetation patterns in Los Angeles
-
 # Urban Environmental Risk Analysis using GIS & Remote Sensing
 
 ## Overview
