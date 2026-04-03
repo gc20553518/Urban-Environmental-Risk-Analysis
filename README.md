@@ -1,5 +1,5 @@
 # Urban Environmental Risk Analysis using GIS & Remote Sensing
-
+> A GIS-based project analyzing environmental risk and urban inequality in Los Angeles.
 ## Overview
 This project analyzes environmental conditions in Los Angeles by integrating pollution data and vegetation patterns using GIS and remote sensing techniques.  
 The goal is to understand how environmental risk and green space distribution vary across urban neighborhoods.
@@ -53,13 +53,13 @@ Areas with higher pollution exposure often coincide with lower vegetation covera
 ## Visualization
 
 ### Pollution & School Risk Map
-![Pollution Map](maps/pollution_schools.png)
+![Pollution Map](pollution_schools.png)
 
 ### Vegetation Density (NDVI)
-![NDVI Map](maps/ndvi_map.png)
+![NDVI Map](ndvi_map.png)
 
 ### Vegetation Highlight (CIR)
-![False Color](maps/false_color.png)
+![False Color](false_color.png)
 
 ---
 
