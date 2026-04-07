@@ -53,13 +53,13 @@ Areas with higher pollution exposure often coincide with lower vegetation covera
 ## Visualization
 
 ### Pollution & School Risk Map
-![Pollution Map](pollution_schools V2.png)
+![Pollution Map](pollution_schools_V2.png)
 
 ### Vegetation Density (NDVI)
-![NDVI Map](ndvi_map V2.png)
+![NDVI Map](ndvi_map_V2.png)
 
 ### Vegetation Highlight (CIR)
-![False Color](false_color V2.png)
+![False Color](false_color_V2.png)
 
 ---
 
